@@ -2,6 +2,9 @@
 
 This is the spring boot application wich shows how to encrypt value using Jasypt.
 
+- https://mail.codejava.net/frameworks/spring-boot/spring-boot-password-encryption
+
+
 ### About Jasypt ###
 
 * Jasypt provides you with easy unidirectional (digest) and bidirectional encryption techniques.
